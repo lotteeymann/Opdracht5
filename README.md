@@ -43,7 +43,7 @@ Interaction
         animation__mouseleave="
           property: components.material.material.color; 
           type: color; 
-          to: red; 
+          to: yellow; 
           startEvents: mouseleave; 
           dur: 500;">  
       </a-box>
