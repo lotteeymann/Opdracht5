@@ -14,7 +14,7 @@ Interaction
     <title>Hello, WebVR! • A-Frame</title>
     <meta name="viewport" content="width=device-width">
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-    <script src="scripts/main.js" defer></script>
+    <script src="main.js" defer></script>
   </head>
   <body>
     <a-scene background="color: #333333">
