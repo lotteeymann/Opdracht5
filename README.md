@@ -1,6 +1,9 @@
 # Opdracht5
 Interaction
 
+
+![media.js](https://github.com/lotteeymann/Opdracht5/blob/e96ef62b797362906172e67c0918dd550d883b42/main.js)
+
 <!DOCTYPE html>
 <html>
   <head>
