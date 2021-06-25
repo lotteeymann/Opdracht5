@@ -5,7 +5,7 @@ Interaction
 ![wood2](https://user-images.githubusercontent.com/86419683/123458690-9e009f00-d5e5-11eb-9601-db647175fb68.jpg)
 ![grass](https://user-images.githubusercontent.com/86419683/123458704-a1942600-d5e5-11eb-8ec8-d1a127d1e0f2.jpg)
 
-![media.js](https://github.com/lotteeymann/Opdracht5/blob/e96ef62b797362906172e67c0918dd550d883b42/main.js)
+![main](https://github.com/lotteeymann/Opdracht5/blob/e96ef62b797362906172e67c0918dd550d883b42/main.js)
 
 <!DOCTYPE html>
 <html>
