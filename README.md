@@ -1,6 +1,9 @@
 # Opdracht5
 Interaction
 
+![wood](https://user-images.githubusercontent.com/86419683/123458679-9a6d1800-d5e5-11eb-9a73-477f0a91fbe1.jpg)
+![wood2](https://user-images.githubusercontent.com/86419683/123458690-9e009f00-d5e5-11eb-9601-db647175fb68.jpg)
+![grass](https://user-images.githubusercontent.com/86419683/123458704-a1942600-d5e5-11eb-8ec8-d1a127d1e0f2.jpg)
 
 ![media.js](https://github.com/lotteeymann/Opdracht5/blob/e96ef62b797362906172e67c0918dd550d883b42/main.js)
 
@@ -16,9 +19,9 @@ Interaction
   <body>
     <a-scene background="color: #333333">
       <a-assets>
-          <img id="wood" src="images/wood.jpg" />
-          <img id="wood2" src="images/wood2.jpg" />
-          <img id="grass" src="images/grass.jpg" />
+          <img id="wood" src="wood.jpg" />
+          <img id="wood2" src="wood2.jpg" />
+          <img id="grass" src="grass.jpg" />
       </a-assets>
 
       <a-entity id="mouseCursor" cursor="rayOrigin: mouse"></a-entity>
